@@ -15,7 +15,7 @@ Lineplot with PETR4 and barrel normalized prices per month.
 
 
 
-![Graph1](https://github.com/amandaventurac/petr4_oil_price_correlation/blob/main/normalized_price_monht.png?raw=true)
+![Graph1](https://github.com/amandaventurac/petr4_oil_price_correlation/blob/main/normalized_price_month.png?raw=true)
 
 
 
