@@ -11,7 +11,7 @@ Colab  notebook
 Lineplot with PETR4 and barrel prices per month.
 
 **normalized_price_month.png**
-Lineplot with PETR4 and barrel normalized prices per month.
+Lineplot with PETR4 and barrel normalized prices per month (shown below).
 
 
 
