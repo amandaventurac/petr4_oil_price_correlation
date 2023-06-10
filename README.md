@@ -14,7 +14,7 @@ Lineplot with PETR4 and barrel prices per month.
 Lineplot with PETR4 and barrel normalized prices per month.
 
 
-![normalized](normalized_price_monht.png)
+![normalized](normalized_price_monht.PNG)
 
 
 
